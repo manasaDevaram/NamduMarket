@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "732234648711",
+    "project_id": "namdu-market",
+    "storage_bucket": "namdu-market.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732234648711:android:c56f7bb38aca6ae9a6bc22",
+        "android_client_info": {
+          "package_name": "com.example.testapp.namdumarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732234648711-s74c0oc19212sa9on6m7662k9auhc2qf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testapp.namdumarket",
+            "certificate_hash": "ef2211b27b7145593e8b916b8df4ae399071036d"
+          }
+        },
+        {
+          "client_id": "732234648711-s5vbb5dkgac4eefvmgagjsq0tgqtbrh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgMhyGpkqqrLPC4CsMMzAYH4KwDPbdhhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732234648711-s5vbb5dkgac4eefvmgagjsq0tgqtbrh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
